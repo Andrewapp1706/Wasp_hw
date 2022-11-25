@@ -1,7 +1,6 @@
-@@ -1,13 +1,13 @@
 <a href="https://wasp-academy.com"><img src="https://wasp-academy.com/Resources/wasp-logo.png" alt="drawing" width="100"/></a>
 # Репозиторий выполненных практических работ в рамках курса "WASP-Academy"
-**ФИО:** Кисляков Антон Юрьевич
+**ФИО:** Иванников Андрей Сергеевич
  
 ### Перечень работ
 
