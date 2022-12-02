@@ -7,7 +7,7 @@
 Название          | Статус | Ссылка
 ------------------|--------|--------
 Автопарк          | 🟡    | <a href="https://github.com/Andrewapp1706/Wasp_hw/tree/main/Autopark">Перейти</a>
-Музмагаз          | 🟡    | <a href="https://github.com/Andrewapp1706/Wasp_hw/tree/main/Autopark">Перейти</a>
+Музмагаз          | 🟡    | <a href="https://github.com/Andrewapp1706/Wasp_hw/tree/main/МузМагаз">Перейти</a>
 
 
 **Статусы выполнения:** <br>
